@@ -23,7 +23,7 @@ public class MainTest {
         DesiredCapabilities caps = new DesiredCapabilities();
         caps.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
         caps.setCapability(MobileCapabilityType.DEVICE_NAME, "TestDevice");
-        caps.setCapability(MobileCapabilityType.APP, "D:\\JetFlix_AppiumTest\\Apk\\app-debug.apk");
+        caps.setCapability(MobileCapabilityType.APP, "D:\JetFlix_AppiumTest\JetFlix_AppiumTest\Apk\app-debug.apk");
         caps.setCapability("automationName", "UiAutomator2");
         caps.setCapability("disableWindowAnimation", true);
         caps.setCapability("newCommandTimeout", 600);
