@@ -2,6 +2,9 @@
 
 This project is a test automation suite for a mobile application using Java and Appium. The project automates two scenarios: verifying movie names across screens and validating the release date filter.
 
+Run Demo : https://drive.google.com/file/d/1VP6HlmzjeM09QV6bP22_PF6c4hXuz5I8/view?usp=sharing 
+
+
 ## Project Structure
 - **`src/test/java`**: Contains the test classes for each scenario.
 - **`resources`**: Includes any necessary configuration files.
